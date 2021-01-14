@@ -1,0 +1,34 @@
+{
+  "pages": [
+    {
+      "id": "JKAyAn3",
+      "grid": {
+        "tiles": []
+      },
+      "showTitle": false
+    }
+  ],
+  "owner": "jaothan26@gmail.com",
+  "listed": true,
+  "name": "blanck\u0027s default dashboard",
+  "showGrid": true,
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "jaothan26@gmail.com"
+    },
+    "lastModifiedOn": 1610658506576
+  },
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "jaothan26@gmail.com"
+    },
+    "lastModifiedOn": 1610658506576
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
