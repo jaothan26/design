@@ -19,7 +19,20 @@
     "gitCommitMode": "AUTO",
     "disableAutomaticTriggers": false,
     "integrations": {
-      "integrations": []
+      "integrations": [
+        {
+          "active": true,
+          "hook": {
+            "type": "github",
+            "configuration": {
+              "useProxy": true,
+              "username": "jaothan26",
+              "accessToken": "9ea71dbf5f24a7dcb7b7d7627fdb6981325674d2",
+              "repository": "https://github.com/jaothan26/design.git"
+            }
+          }
+        }
+      ]
     },
     "flowBuildSettings": {
       "mergeSparkPipelines": false,
@@ -175,6 +188,13 @@
     "displayedState": {
       "checks": []
     }
+  },
+  "versionTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "jaothan26@gmail.com"
+    },
+    "lastModifiedOn": 1610658542731
   },
   "creationTag": {
     "versionNumber": 0,
